@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{65AE160C-0CDF-4677-874A-2796D95E4F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F0A82610-3F60-4086-B9CF-53997912EA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65AE160C-0CDF-4677-874A-2796D95E4F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AE160C-0CDF-4677-874A-2796D95E4F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AE160C-0CDF-4677-874A-2796D95E4F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AE160C-0CDF-4677-874A-2796D95E4F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A82610-3F60-4086-B9CF-53997912EA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A82610-3F60-4086-B9CF-53997912EA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A82610-3F60-4086-B9CF-53997912EA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A82610-3F60-4086-B9CF-53997912EA59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
